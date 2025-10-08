@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zarish Nasir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://dac.digital/wp-content/uploads/2022/01/dac-www-3-optimized.png" width="450px" align="right" alt="">
 
 - 🌱 I’m currently learning **Web Development, DSA**
 
