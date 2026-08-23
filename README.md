@@ -78,10 +78,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zarishnasir123&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zarishnasir123&style=flat-square&color=blue" alt="profile views" />
